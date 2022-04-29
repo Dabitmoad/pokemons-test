@@ -1,7 +1,5 @@
 Hello Mr.Imad Boumzaoued,
 
-Hope you doing well, Thanks again for your time, and thank you to take the time to explain to me things in the interview I hope to learn more from you and your exprience if we work together, and that's my goal to join your team.
-
 For the technical part of this project I work with the nextJs with TypesScript frameWork of React, I decided to work with SSR because it's much more performant than CSR.and because the project is very simple I use the context API for the management system, also I try to separate the functionality and the render trying to use MVVM PATTERN
 
 for the second question, there are many improvements that I want to do to this app and especially on the UI/UX part to do better design.
